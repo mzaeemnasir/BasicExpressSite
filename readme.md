@@ -6,7 +6,7 @@ Source code example for [A simple website in node.js with express, jade and styl
 Build
 -----
 
-Run this command in console:
+Run this command in the console:
 
 ```
 npm install
